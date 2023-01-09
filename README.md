@@ -9,3 +9,5 @@ Generic Hospital is looking to improve their in-house patient service, the follo
 2. Build a prediction model to predict length of stay in hospital given various symptoms. We will build tree based models as well as deep learning models. The metrics will be R2, MAE, RMSE on target varible of length of stay. Best models will be based on metrics, test data, variation in trees, model explianibility. Understand and research which factor impact the length of stay
 3.Perform a clustering analysis using K-means to understand various kinds of patients group. Recommend if we provide tailer-made services for each group
 4. Provide any recommendations to improve services for patients based on data science tools. 
+
+![alt text](https://github.com/Asad1287/Hospital_BusinessCaseStudy/blob/main/pexels-jonathan-meyer-668300.jpg?raw=true)
