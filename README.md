@@ -1,5 +1,5 @@
 # Hospital_BusinessCaseStudy
-A sample study using various data science tools on business case for improving hospital in-patient process
+A sample study using various data science tools on business case for improving hospital in-patient process, performed for a university hospital dataset
 
 
 Business Case - Data Science for Hospital and Medical Industry 
