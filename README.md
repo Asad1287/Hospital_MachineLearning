@@ -1,4 +1,4 @@
-# Hospital_BusinessCaseStudy
+# A Case study on improving in-patient service for hospitals
 A sample study using various data science tools on business case for improving hospital in-patient process, performed for a university hospital dataset
 
 
