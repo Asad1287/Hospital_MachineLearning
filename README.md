@@ -10,4 +10,14 @@ Generic Hospital is looking to improve their in-house patient service, the follo
 3.Perform a clustering analysis using K-means to understand various kinds of patients group. Recommend if we provide tailer-made services for each group
 4. Provide any recommendations to improve services for patients based on data science tools. 
 
+Models used
+1. Cluster analysis K-means
+2. Random Forests 
+3. Partial Dependency Analysis
+4. LightGBM
+5. XGboost regressor
+6. Keras MLP 
+
+Optimizations using hyperopt library
+
 ![alt text](https://github.com/Asad1287/Hospital_BusinessCaseStudy/blob/main/pexels-jonathan-meyer-668300.jpg?raw=true)
