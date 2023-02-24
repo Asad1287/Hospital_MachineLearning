@@ -83,7 +83,7 @@ def train_dataset(Data_URL: str, model_params: dict):
     model = full_pipeline.fit(X_train, y_train)
     return model
 
-data_url = sys.argv[1]
+data_url = "/workspaces/Hospital_BusinessCaseStudy/LengthOfStay.csv"
 # write a unittest to test the train_dataset function, if the test fails, the pipeline will fail
 class TestTrainDataset(unittest.TestCase):
     def test_train_dataset(self):

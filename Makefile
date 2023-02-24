@@ -1,4 +1,4 @@
-filename = "filename"
+inference_dataset = "/workspaces/Hospital_BusinessCaseStudy/LengthOfStay_Prod.csv"
 install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
@@ -16,6 +16,12 @@ hello:
 	echo "Hello, world!" $(filename)
 
 all: install lint test
+
+train:
+	python train_script.py
+
+inference:
+	python test_script.py $(inference_dataset)
 
 server:
 	python main.py

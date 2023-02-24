@@ -23,5 +23,3 @@ def print_scores(model,X_train, X_test, y_train, y_test):
               model.score(X_train, y_train), model.score(X_test, y_test)]
     if hasattr(model, 'oob_score_'): res.append(model.oob_score_)
     print(res)
-
-
