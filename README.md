@@ -21,3 +21,7 @@ Models used
 Optimizations using hyperopt library
 
 ![alt text](https://github.com/Asad1287/Hospital_BusinessCaseStudy/blob/main/pexels-jonathan-meyer-668300.jpg?raw=true)
+
+Please refer to the attached notebook for detailed analysis
+
+Model deployement is completed using Docker/FastAPI.
